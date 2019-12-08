@@ -15,7 +15,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@myworkspace/dataone": ["libs/dataone/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

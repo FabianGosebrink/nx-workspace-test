@@ -13,6 +13,27 @@
     },
     "app-a": {
       "tags": []
+    },
+    "app-b-e2e": {
+      "tags": []
+    },
+    "app-b": {
+      "tags": []
+    },
+    "app-c-e2e": {
+      "tags": []
+    },
+    "app-c": {
+      "tags": []
+    },
+    "app-d-e2e": {
+      "tags": []
+    },
+    "app-d": {
+      "tags": []
+    },
+    "dataone": {
+      "tags": []
     }
   }
 }
